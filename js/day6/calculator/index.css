@@ -57,13 +57,13 @@ button {
 }
 
 .number {
-    background-color: rgb(52, 52, 116);
+    background-color: rgb(116, 99, 52);
     color: white;
 }
 
 .display {
     height: 60px;
-    border: 2px solid black;
+    border: 2px solid skyblue;
     border-radius: 5px;
     margin-bottom: 10px;
     font-size: 2rem;
