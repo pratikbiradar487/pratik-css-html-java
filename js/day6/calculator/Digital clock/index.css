@@ -9,8 +9,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #020024;
-    background: linear-gradiet(90deg, rgba(2, 0, 36, 1) 6%, rgb(104, 104, 175) 35%, rgba(6, 67, 160, 1) 73%, rgba(0, 212, 255, 1) 91%);
+    
+  background: linear-gradient(to bottom, #00ffff 5%, #ff99cc 100%);
 }
 
 .container {
